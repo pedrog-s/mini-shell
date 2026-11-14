@@ -1,0 +1,13 @@
+# Ejecutables
+my_shell
+nivel1
+nivel2
+nivel3
+nivel4
+nivel5
+nivel6
+
+# Objetos y temporales
+*.o
+*~
+*.tmp
